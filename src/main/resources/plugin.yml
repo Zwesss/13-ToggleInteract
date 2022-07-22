@@ -1,0 +1,4 @@
+name: InteractTutorial
+version: '${project.version}'
+main: dev.tim.interacttutorial.Main
+api-version: 1.19
